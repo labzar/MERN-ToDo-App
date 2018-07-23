@@ -1,0 +1,4 @@
+export const GET_FEATURES = 'GET_FEATURES';
+export const ADD_FEATURE = 'ADD_FEATURE';
+export const DELETE_FEATURE = 'DELETE_FEATURE';
+export const FEATURE_LOADNG = 'FEATURE_LOADNG';
